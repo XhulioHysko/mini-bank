@@ -32,6 +32,6 @@ spring.datasource.password=your_password
 After the application starts, go to:
 
 ➡️ http://localhost:8081/swagger-ui/index.html
-
 You can test the APIs directly from the browser.
+![Image](https://github.com/user-attachments/assets/02ea6559-1e5c-4fd3-be69-99ed71e9ba4c)
 
