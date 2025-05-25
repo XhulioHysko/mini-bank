@@ -35,4 +35,3 @@ After the application starts, go to:
 
 You can test the APIs directly from the browser.
 
-https://raw.githubusercontent.com/XhulioHysko/mini-bank/refs/heads/master/swagger2025.png
